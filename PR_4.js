@@ -20,3 +20,4 @@ console.log(PR3(5))//input number
 const {PRime} = require ('./PRime')
 
 console.log(PRime(19)) //input number
+console.log("Hasil all")
